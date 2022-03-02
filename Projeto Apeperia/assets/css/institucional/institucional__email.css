@@ -1,0 +1,6 @@
+.institucional__email {
+    font-size: 1.2rem;
+    color: var(--link-contato);
+    text-align: center;
+    padding: 1rem;
+}

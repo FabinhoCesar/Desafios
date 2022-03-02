@@ -1,0 +1,10 @@
+.institucional {
+    background-color: var(--branco);
+}
+
+@media screen and (min-width: 1024px) {
+    .institucional {
+        display: flex;
+        justify-content: space-around;
+    }
+}

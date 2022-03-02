@@ -1,0 +1,7 @@
+.planos__texto {
+    color: var(--cinza-claro);
+    font-weight: 400;
+    font-size: .9rem;
+    padding-bottom: 1rem;
+    padding-left: 2.8rem;
+}

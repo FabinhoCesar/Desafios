@@ -1,0 +1,6 @@
+.destaques {
+    background: var(--destaque);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,40 @@
+
+Background 
+cabecalho: #00161C;
+chamada: #00161C:
+destaque: #DFE3F5;
+diferenciais: #FFFFFF; 
+sobre: #FFFFFF;
+contato: #FFFFFF;
+planos: #F7F4F4;
+rodapé: #333333;
+
+Fonts
+branco: #FFFFFF;
+link-nav: #FFFFFF;
+cinza-escuro: #4F4C4C;
+preta: #000000;
+vermelho-forte: #B72E2E;
+star: #56CCF2;
+ultra: #B04CD9;
+mega: #E33B3B;
+cinza-claro: #666666;
+link-contato: #0084FF;
+borda-cabecalho-mobile: #103D4A;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

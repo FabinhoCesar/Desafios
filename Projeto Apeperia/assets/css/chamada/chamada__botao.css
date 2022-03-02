@@ -1,0 +1,8 @@
+.chamada__botao {
+    color: var(--branco);
+    margin: 2.5rem 0 2.5rem 0;
+}
+
+.chamada__botao:hover {
+    cursor: pointer;
+}

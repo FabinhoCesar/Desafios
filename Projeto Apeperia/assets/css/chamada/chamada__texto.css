@@ -1,0 +1,10 @@
+.chamada__texto {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+@media screen and (min-width: 1024px) {
+    .chamada__texto {
+        padding: 0 15rem 0 15rem;
+    }
+}

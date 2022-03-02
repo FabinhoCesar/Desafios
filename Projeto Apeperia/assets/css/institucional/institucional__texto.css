@@ -1,0 +1,7 @@
+.institucional__texto {
+    font-size: .9rem;
+    color: var(--cinza-claro);
+    margin-bottom: 1.5rem;
+    text-align: center;
+    margin-top: 1rem;
+}

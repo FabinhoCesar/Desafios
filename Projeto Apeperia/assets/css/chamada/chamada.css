@@ -1,0 +1,5 @@
+.chamada {
+    background: var(--chamada);
+    text-align: center;
+    color: var(--branco);
+}

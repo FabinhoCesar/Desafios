@@ -1,0 +1,14 @@
+.chamada__titulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+@media screen and (min-width: 1024px) {
+    .chamada__titulo {
+        font-size: 3.25rem;
+    }
+}

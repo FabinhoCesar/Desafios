@@ -1,0 +1,7 @@
+.institucional__endereco {
+    font-size: 1.4rem;
+    text-align: center;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    line-height: 2rem;
+}

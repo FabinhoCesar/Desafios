@@ -1,0 +1,18 @@
+.diferenciais {
+    background: var(--branco);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+@media screen and (min-width: 768px) {
+    .diferenciais {
+        padding-right: 12.5rem;
+        padding-left: 12.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .diferenciais {
+        display: flex;
+    }
+}

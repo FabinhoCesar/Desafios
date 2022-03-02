@@ -1,0 +1,6 @@
+.cabecalho__link {
+    color: var(--branco);
+    font-size: 1.1rem;
+    display: inline-block;
+    padding: .75rem;
+}

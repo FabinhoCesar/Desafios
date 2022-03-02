@@ -1,0 +1,19 @@
+.planos__titulo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    border-bottom: 1px solid #DFE3E5;
+    padding: 1rem;
+}
+
+.planos__titulo--start {
+    color: var(--start);
+}
+
+.planos__titulo--ultra {
+    color: var(--ultra);
+}
+
+.planos__titulo--mega {
+    color: var(--mega);
+}

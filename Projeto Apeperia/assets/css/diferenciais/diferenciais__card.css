@@ -1,0 +1,21 @@
+.diferenciais__card {
+    padding: 4rem 0 2rem 5rem;
+
+}
+.diferenciais__card--tempo {
+    background-image: url(/assets/img/icone-relogio.png);
+    background-repeat: no-repeat;
+    background-position: 2.5rem 3rem;
+}
+.diferenciais__card--foco {
+    background-image: url(/assets/img/icone-dinheiro.png);
+    background-repeat: no-repeat;
+    background-position: 2.5rem 3rem;
+}
+
+.diferenciais__card--especialistas {
+    background-image: url(/assets/img/icone-quimica.png);
+    background-repeat: no-repeat;
+    background-position: 2.5rem 3rem;
+}
+    
